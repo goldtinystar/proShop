@@ -106,5 +106,5 @@ const StoreFinder = (props) => {
 }
 
 export default GoogleApiWrapper({
-    apiKey: "AIzaSyCpvB_8xGXFneV-NrpYT9EDOQJfx1tdjAo "
+    apiKey: ""
 })(StoreFinder);
